@@ -51,6 +51,11 @@ los errores, cambios y resultados.
 
 ![Extension Quokka.js](https://github.com/RPJunco/ejercicios-javascript/assets/109442443/eed470cf-d909-4b66-bef9-ecff4607a36e)
 
+Se debe iniciar la extension Quokka para poder visualizar los resultados, para ello abrimos la paleta de comandos (tambien se puede usar un atajo de teclado --> Ctrl + Mayús + P), luego seleccionamos la opción 'Quokka.js: Toggle (Start/Stop) on Current File'.
+
+![Iniciar la extension Quokka](https://github.com/RPJunco/ejercicios-javascript/assets/109442443/147426fc-66c5-48b0-8faa-deecdde76abd)
+
+
 Si ingresamos el archivo que contiene el codigo .js podemos visualizar los resultados al lado derecho de cada 'console.log()'
 
 ![Codigo visualizado con la herramienta Quokka.js](https://github.com/RPJunco/ejercicios-javascript/assets/109442443/d1dbf071-ed49-40e9-91cd-4279cba44ff4)
