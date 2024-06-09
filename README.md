@@ -21,7 +21,7 @@ En el siguiente proyecto se crearan archivos y dentro de ellos se realizara un c
 Para poder ejecutar los scripts y poder visualizar los resultados de cada ejercicio existen dos formas:
 
 🥇
-La primera es crear un archivo index.html. En el mismo archivo agregamos su estructura basica y luego en el body introduccimos la etiqueta ' <script></script> ', en esa etiqueta agregamos un atributo llamado 'src' y dentro de
+La primera es crear un archivo index.html (El archivo index.html es proporcionado en el repositorio). En el mismo archivo agregamos su estructura basica y luego en el body introduccimos la etiqueta ' <script></script> ', en esa etiqueta agregamos un atributo llamado 'src' y dentro de
 esta ' src="ejercicio(n).js" ' (donde n es el numero de ejercicio que se quiere testear).
 
 ![Archivo index.html con la estructura necesaria para ejecutar script](https://github.com/RPJunco/ejercicios-javascript/assets/109442443/47ab2d9b-6927-4621-a091-545a9e74049e)
