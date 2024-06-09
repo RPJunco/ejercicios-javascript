@@ -24,7 +24,8 @@ Para poder ejecutar los scripts y poder visualizar los resultados de cada ejerci
 La primera es crear un archivo index.html. En el mismo archivo agregamos su estructura basica y luego en el body introduccimos la etiqueta ' <script></script> ', en esa etiqueta agregamos un atributo llamado 'src' y dentro de
 esta ' src="ejercicio(n).js" ' (donde n es el numero de ejercicio que se quiere testear).
 
-![Archivo index.html con la estructura necesaria para ejecutar script](https://github.com/RPJunco/ejercicios-javascript/assets/109442443/6f4565ec-2fdc-4cef-b28b-673ede8b6164)
+![Archivo index.html con la estructura necesaria para ejecutar script](https://github.com/RPJunco/ejercicios-javascript/assets/109442443/47ab2d9b-6927-4621-a091-545a9e74049e)
+
 
 Una vez que tenemos la estructura html y el archivo .js enlazado como se muestra en la imagen anterior(Tomamos como ejemplo el ejercicio n°1 pero el procedimiento es aplicable para cualquier ejercicio), podemos abrir el archivo 'index.html' en
 cualquier navegador que deseemos.
